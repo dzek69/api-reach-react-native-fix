@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [UNRELEASED]
 (nothing yet)
 
+## [1.0.1] - 2019-08-16
+### Fixed
+- missing `url` dependency from `parse-url` -> `parse-path`
+
 ## [1.0.0] - 2019-07-12
 ### Added
 - first version
