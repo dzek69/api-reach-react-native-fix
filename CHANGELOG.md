@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [UNRELEASED]
 (nothing yet)
 
+## [1.0.2] - 2019-08-16 - not released to npm
+### Fixed
+- not needed file - jsdoc config - published to npm, added to .npmignore
+
 ## [1.0.1] - 2019-08-16
 ### Fixed
 - missing `url` dependency from `parse-url` -> `parse-path`
