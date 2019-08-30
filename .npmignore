@@ -6,8 +6,8 @@
 /.babelrc
 /yarn.lock
 /*.tgz
-/jsdoc.json
 /*.log
 /.yarnclean
+/jsdoc.json
 /.editorconfig
 /.eslintrc.json
